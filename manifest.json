@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ClipKeeper",
   "version": "1.0",
-  "description": "A smart clipboard manager that automatically saves and organizes everything you copy, making it instantly accessible when you need it.",
+  "description": "A smart clipboard manager that automatically saves and organizes everything you copy",
   "action": {
     "default_popup": "popup/popup.html"
   },
